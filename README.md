@@ -27,7 +27,7 @@ Es una plataforma web enfocada en la gestión y accesibilidad de información cr
 ¡Siempre estoy abierto a colaborar o charlar sobre tecnología y educación!
 
 * **Correo:** [elrandalch@gmail.com](mailto:elrandalch@gmail.com)
-* **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-usuario-aqui)
+
 
 ---
 *“La educación es el encendido de una llama, no el llenado de un recipiente.”*
